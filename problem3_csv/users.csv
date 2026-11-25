@@ -1,0 +1,7 @@
+name,email
+Asha Example,asha@example.com
+Ravi Example,Ravi@Example.com
+Duplicate Ravi,ravi@example.com
+No Email,
+Bad Email,not-an-email
+"Example, Meera",meera@example.org
